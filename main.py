@@ -8,5 +8,5 @@ def printPowerSet(my_set, set_size):
         print()  # Print new line after each subset
 
 # Example usage
-my_set = ['a', 'b', 'c']
+my_set = ['1', '2', '3']
 printPowerSet(my_set, len(my_set))
